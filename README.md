@@ -1,2 +1,2 @@
-# Credit-card-validator
-C++ program to validate your credit cards
+# Credit Card Validator
+A simple C++ program which validates credit card numbers using Luhn's Algorithm.
